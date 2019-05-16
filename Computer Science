@@ -1,5 +1,2 @@
-#a. Title Page
-#b. Objective
-#c. The procedure you followed or created.
-#d. Multimedia of Work (i.e. pictures, videos) with a clear description of each media piece - (at least 2)
-#e. Conclusion
+x = input("Enter your name: ")
+print(x)
